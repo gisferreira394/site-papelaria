@@ -1,92 +1,99 @@
+.menu {
 
-.menu{
-
-    display:flex; /* deixa o texto deitado escrevendo corrido que quebre o texto*/
-
-}
-
-.menu li a{
-    display: block; /*cria texto fixo*/
-    padding: 8px; /*grossura do quadrado*/
-
+    display: flex;
+    /* deixa o texto deitado escrevendo corrido que quebre o texto*/
 
 }
 
-.menu li{
-    margin-left: 10px}   /* separa o texto  */
+.menu li a {
+    display: block;
+    /*cria texto fixo*/
+    padding: 8px;
+    /*grossura do quadrado*/
 
-    .header{
-        display: flex;
-        background-color: rgb(0, 92, 121);
-        padding: 10px;
-        align-items: center;
-        flex-wrap:wrap;
-        justify-content: space-between;
-    
-    }
 
-    .s{
-position: absolute;
-width: 115px;
-height: 25px;
-left: 8px;
-top: 100px;
-background: #D9D9D9;
-border-radius: 57px;
-text-align: center;
-    }
+}
 
-    .a{
-        position: absolute;
-        width: 115px;
-        height: 25px;
-        left: 200px;
-        top: 100px;
-        background: #D9D9D9;
-        border-radius: 57px;
-        text-align: center;
-            }
+.menu li {
+    margin-left: 10px
+}
 
-            .b{
-                position: absolute;
-                width: 115px;
-                height: 25px;
-                left: 400px;
-                top: 100px;
-                background: #D9D9D9;
-                border-radius: 57px;
-                text-align: center;
-                    }
+/* separa o texto  */
 
-                    .barra{
-                        position: absolute;
-                        width: 600px;
-                        height: 25px;
-                        left: 989px;
-                        top: 100px;
-                        background: #D9D9D9;
-                        border-radius: 57px;
-                        text-align: center;
-                        text-align: left;
-                            }
-                            .divBusca{
-                                position: absolute;
-                        width: 600px;
-                        height: 25px;
-                        left: 989px;
-                        top: 100px;
-                        background: #D9D9D9;
-                        border-radius: 57px;
-                        text-align: center;
-                        text-align: left;
-                            }
-                    
-                            .h3{
-                        text-align: center; 
-                        text-decoration: underline;
-                            }
+.header {
+    display: flex;
+    background-color: rgb(0, 92, 121);
+    padding: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
 
-.h{ position: absolute;
+}
+
+.s {
+    position: absolute;
+    width: 115px;
+    height: 25px;
+    left: 8px;
+    top: 100px;
+    background: #D9D9D9;
+    border-radius: 57px;
+    text-align: center;
+}
+
+.a {
+    position: absolute;
+    width: 115px;
+    height: 25px;
+    left: 200px;
+    top: 100px;
+    background: #D9D9D9;
+    border-radius: 57px;
+    text-align: center;
+}
+
+.b {
+    position: absolute;
+    width: 115px;
+    height: 25px;
+    left: 400px;
+    top: 100px;
+    background: #D9D9D9;
+    border-radius: 57px;
+    text-align: center;
+}
+
+.barra {
+    position: absolute;
+    width: 600px;
+    height: 25px;
+    left: 989px;
+    top: 100px;
+    background: #D9D9D9;
+    border-radius: 57px;
+    text-align: center;
+    text-align: left;
+}
+
+.divBusca {
+    position: absolute;
+    width: 600px;
+    height: 25px;
+    left: 989px;
+    top: 100px;
+    background: #D9D9D9;
+    border-radius: 57px;
+    text-align: center;
+    text-align: left;
+}
+
+.h3 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.h {
+    position: absolute;
     width: 190px;
     height: 251px;
     left: 30px;
@@ -94,49 +101,227 @@ text-align: center;
     background: #AFE6FF;
     border-radius: 21px;
 }
-                           .p{ 
-                            position: absolute;
-width: 190px;
-height: 251px;
-left: 285px;
-top: 300px;
 
-background: #AFE6FF;
-border-radius: 21px;
+.p {
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 285px;
+    top: 300px;
+
+    background: #AFE6FF;
+    border-radius: 21px;
 }
 
-.c{position: absolute;
+.c {
+    position: absolute;
     width: 190px;
     height: 251px;
     left: 540px;
     top: 300px;
-    
+
     background: #AFE6FF;
-    border-radius: 21px;}
+    border-radius: 21px;
+}
 
-    .d{position: absolute;
-        width: 190px;
-        height: 251px;
-        left: 795px;
-        top: 300px;
-        
-        background: #AFE6FF;
-        border-radius: 21px;}
+.d {
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 795px;
+    top: 300px;
 
-        .e{position: absolute;
-            width: 190px;
-            height: 251px;
-            left: 1050px;
-            top: 300px;
-            
-            background: #AFE6FF;
-            border-radius: 21px;}
+    background: #AFE6FF;
+    border-radius: 21px;
+}
 
-            .f{position: absolute;
-                width: 190px;
-                height: 251px;
-                left: 1300px;
-                top: 300px;
-                
-                background: #AFE6FF;
-                border-radius: 21px;}
+.e {
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 1050px;
+    top: 300px;
+
+    background: #AFE6FF;
+    border-radius: 21px;
+}
+
+.f {
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 1300px;
+    top: 300px;
+
+    background: #AFE6FF;
+    border-radius: 21px;
+}
+
+.i {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 1320px;
+    top: 320px;
+    background: #ffffff;
+}
+
+.j {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 50px;
+    top: 320px;
+    background: #ffffff;
+}
+
+.k {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 305px;
+    top: 320px;
+    background: #ffffff;
+}
+
+
+.l {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 560px;
+    top: 320px;
+    background: #ffffff;
+}
+
+.m {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 815px;
+    top: 320px;
+    background: #ffffff;
+}
+
+.n {
+    position: absolute;
+    width: 149px;
+    /*   largura */
+    height: 145px;
+    /* altura */
+    left: 1070px;
+    top: 320px;
+    background: #ffffff;
+}
+
+/* Estilo das estrelas quando elas estão "ativadas" checked */
+%checked-star {
+  color: #FFE000;
+}
+ 
+/* Estilo das estrelas quando elas estão "desativadas" unchecked */
+%unchecked-star {
+  color: #CCC;
+}
+ 
+/*
+  Esconde o texto de elementos
+  source https://github.com/h5bp/html5-boilerplate/commit/aa0396eae757
+*/
+%hide-text {
+  font: "0/0" a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+ 
+/*
+  Esconde um elemento de forma que continue acessível via teclado
+ 
+http://getbootstrap.com/css/#helper-classes-screen-readers
+ 
+*/
+%hide-element {
+  position: absolute;
+  top: -999999em;
+  left: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+ 
+/*
+  Escreve os seletores das estrelas para marcalas como "ativas" checked, quando um input radio 3 está "ativo" checked, as estrelas 3, 2 e 1 devem aparecer "ativas", esse loop escreve essas classes para nós.
+*/
+@for $group from 1 through 5 {
+  @for $item from 1 through $group {
+    .radio-#{$group}:checked ~ .star-item-#{$item}:before,
+    /* Focus, importante para dar o estilho mesmo quando for ativado via teclado */
+    .radio-#{$group}:focus ~ .star-item-#{$item}:before {
+      @extend %checked-star;
+    }
+  }
+}
+ 
+.star {
+  display: inline-block;
+  flex-wrap: wrap;
+  pointer-events: none;
+  /* max-width: 5em; */
+}
+ 
+.star-item {
+  cursor: pointer;
+  display: inline-block;
+  pointer-events: initial;
+  width: 1em;
+  height: 1em;
+  overflow: hidden;
+  line-height: 100%;
+  @extend %hide-text;
+ 
+  /* Estilo padrão das estrelas */
+  &:before {
+    transition: color 200ms;
+    transform: translate3d(0, 0, 0);
+    will-change: color;
+    content: '\2605';
+    @extend %unchecked-star;
+  }
+ 
+  /* Ao passar o mouse em uma estrela, essa estrela fica amarela */
+  &:hover:before {
+    @extend %checked-star;
+  }
+ 
+  /* Ao passar o mouse em uma estrella, as estrelas adjacentes ficam como unchecked (Isso é um truque para não precisar mudar a ordem de disposição dos elementos para rtl) */
+  &:hover ~ .star-item:before {
+    @extend %unchecked-star;
+  }
+}
+ 
+/* Ao passar o mouse no container das estrelas, todos os itens ficam como marcados */
+.star:hover .star-item:before {
+  @extend %checked-star;
+}
+ 
+/* Esconde os input radio de forma que continuem acessíveis via teclado */
+.radio {
+  @extend %hide-element;
+}
+ 
+/* Ordena os itens da direita para a esquerda */
+.star:dir(rtl), .star.rtl {
+  .star-item { direction: rtl; }
+}
