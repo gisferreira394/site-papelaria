@@ -30,64 +30,367 @@
 
 }
 
-.s {
-    position: absolute;
-    width: 115px;
-    height: 25px;
-    left: 8px;
-    top: 100px;
-    background: #D9D9D9;
-    border-radius: 57px;
-    text-align: center;
-}
+.icone7 {
 
-.a {
     position: absolute;
-    width: 115px;
-    height: 25px;
-    left: 200px;
-    top: 100px;
-    background: #D9D9D9;
-    border-radius: 57px;
-    text-align: center;
-}
 
-.b {
-    position: absolute;
-    width: 115px;
-    height: 25px;
-    left: 400px;
-    top: 100px;
-    background: #D9D9D9;
-    border-radius: 57px;
-    text-align: center;
-}
+    width: 190px;
 
-.barra {
+    height: 251px;
+
+    left: 30px;
+
+    top: 310px;
+
+    background: #AFE6FF;
+
+    border-radius: 21px;
+  }
+  
+  .icone8 {
+  
     position: absolute;
-    width: 600px;
-    height: 25px;
-    left: 989px;
-    top: 100px;
-    background: #D9D9D9;
-    border-radius: 57px;
-    text-align: center;
+
+    width: 190px;
+
+    height: 251px;
+
+    left: 285px;
+
+    top: 310px;
+
+    background: #AFE6FF;
+
+    border-radius: 21px;
+  
+  }
+  
+  .icone9 {
+  
+    position: absolute;
+
+    width: 190px;
+
+    height: 251px;
+
+    left: 795px;
+
+    top: 310px;
+
+    background: #AFE6FF;
+
+    border-radius: 21px;
+  
+  }
+  
+  .icone10 {
+  
+    position: absolute;
+
+    width: 190px;
+
+    height: 251px;
+
+    left: 1050px;
+
+    top: 310px;
+
+    background: #AFE6FF;
+
+    border-radius: 21px;
+  
+  }
+  
+  .icone11 {
+  
+    position: absolute;
+
+    width: 190px;
+
+    height: 251px;
+
+    left: 1300px;
+
+    top: 310px;
+
+    background: #AFE6FF;
+
+    border-radius: 21px;
+  
+  }
+  
+  .icone12 {
+  
+    position: absolute;
+  
+    width: 190px;
+  
+    height: 251px;
+  
+    left: 550px;
+  
+    top: 310px;
+  
+    background: #AFE6FF;
+  
+    border-radius: 21px;
+  
+  }
+
+  
+.texto7 {
+
     text-align: left;
-}
 
-.divBusca {
     position: absolute;
-    width: 600px;
-    height: 25px;
-    left: 989px;
-    top: 100px;
-    background: #D9D9D9;
-    border-radius: 57px;
-    text-align: center;
-    text-align: left;
+
+    width: 190px;
+
+    height: 251px;
+
+    left: 35px;
+
+    top: 480px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 
-.h3 {
-    text-align: center;
-    text-decoration: underline;
+ 
+
+.texto8 {
+
+    text-align: left;
+
+    position: absolute;
+
+    width: 190px;
+
+    height: 251px;
+
+    left: 290px;
+
+    top: 480px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
+
+.texto9 {
+
+ 
+
+    text-align: left;
+
+    position: absolute;
+
+    width: 190px;
+
+    height: 251px;
+
+    left: 544px;
+
+    top: 480px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ 
+
+}
+
+ 
+
+.texto10 {
+
+    text-align: left;
+
+    position: absolute;
+
+    width: 190px;
+
+    height: 251px;
+
+    left: 800px;
+
+    top: 480px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+ 
+
+.texto11 {
+
+ 
+
+    text-align: left;
+
+    position: absolute;
+
+    width: 190px;
+
+    height: 251px;
+
+    left: 1056px;
+
+    top: 480px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.texto12 {
+
+ 
+
+    text-align: left;
+
+    position: absolute;
+
+    width: 190px;
+
+    height: 251px;
+
+    left: 1305px;
+
+    top: 480px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+  .iten7 {
+
+    position: absolute;
+
+    width: 149px;
+
+    /*   largura */
+
+    height: 145px;
+
+    /* altura */
+
+    left: 1320px;
+
+    top: 320px;
+
+    background: #ffffff;
+  }
+
+  .iten8{
+
+    position: absolute;
+
+    width: 149px;
+
+    /*   largura */
+
+    height: 145px;
+
+    /* altura */
+
+    left: 50px;
+
+    top: 320px;
+
+    background: #ffffff;
+
+  }
+
+  .iten9{
+
+    position: absolute;
+
+    width: 149px;
+
+    /*   largura */
+
+    height: 145px;
+
+    /* altura */
+
+    left: 305px;
+
+    top: 320px;
+
+    background: #ffffff;
+
+  }
+
+  .iten10{
+    position: absolute;
+
+    width: 149px;
+
+    /*   largura */
+
+    height: 145px;
+
+    /* altura */
+
+    left: 815px;
+
+ 
+
+    background: #ffffff;
+  }
+
+  .iten11{
+    position: absolute;
+
+    width: 149px;
+
+    /*   largura */
+
+    height: 145px;
+
+    /* altura */
+
+    left: 1070px;
+
+    top: 320px;
+
+    background: #ffffff;
+  }
+
+  .iten12{
+
+    position: absolute;
+
+    width: 149px;
+
+    /*   largura */
+
+    height: 145px;
+
+    /* altura */
+
+    left: 570px;
+
+    top: 320px;
+
+    background: #ffffff;
+  }
+
+.iten13{
+
+   position: absolute;
+
+    width: 149px;
+
+    /*   largura */
+
+    height: 145px;
+
+    /* altura */
+
+    left: 815px;
+
+    top: 320px;
+
+    background: #ffffff; 
+}
+
+
