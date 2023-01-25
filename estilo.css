@@ -352,7 +352,6 @@ text-align: left;
 
     top: 320px;
 
-    background: #ffffff;
   }
 
   .iten8{
@@ -371,7 +370,7 @@ text-align: left;
 
     top: 320px;
 
-    background: #ffffff;
+
 
   }
 
@@ -391,29 +390,12 @@ text-align: left;
 
     top: 320px;
 
-    background: #ffffff;
+
 
   }
+
 
   .iten10{
-    position: absolute;
-
-    width: 149px;
-
-    /*   largura */
-
-    height: 145px;
-
-    /* altura */
-
-    left: 815px;
-
- 
-
-    background: #ffffff;
-  }
-
-  .iten11{
     position: absolute;
 
     width: 149px;
@@ -428,10 +410,9 @@ text-align: left;
 
     top: 320px;
 
-    background: #ffffff;
   }
 
-  .iten12{
+  .iten11{
 
     position: absolute;
 
@@ -447,10 +428,9 @@ text-align: left;
 
     top: 320px;
 
-    background: #ffffff;
   }
 
-.iten13{
+.iten12{
 
    position: absolute;
 
@@ -466,7 +446,6 @@ text-align: left;
 
     top: 320px;
 
-    background: #ffffff; 
 }
 
 
